@@ -48,3 +48,9 @@ input[type=text].my-input,input[type=email].my-input{
     color: white;
     font-weight: bold;
 }
+*hovering state, similar to a:hover */
+input[type=submit]:hover{
+    /*12. set background color to: orangered */
+    background-color: black;
+    color: white;
+}
